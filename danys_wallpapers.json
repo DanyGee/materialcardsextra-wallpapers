@@ -1,12 +1,12 @@
 [{
 		"name": "Dany's Wallpaper 1",
 		"author": "Dany Gee",
-		"url": "https://github.com/DanyGee/materialcardsextra-wallpapers/blob/master/wallhaven-96rm3w.jpg",
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra-wallpapers/master/wallhaven-96rm3w.jpg",
 		"featured": true
 	},
 	{
 		"name": "Dany's Wallpaper 2",
 		"author": "Dany Gee",
-		"url": "https://github.com/DanyGee/materialcardsextra-wallpapers/blob/master/wallhaven-j5korw.jpg"
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra-wallpapers/master/wallhaven-j5korw.jpg"
 	}
 ]
