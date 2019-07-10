@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Dany's Wallpaper 1",
+		"author": "Dany Gee",
+		"url": "https://w.wallhaven.cc/full/j5/wallhaven-j5korw.jpg",
+		"thumbnail": "https://w.wallhaven.cc/full/j5/wallhaven-j5korw.jpg",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Dany's Wallpaper 2",
+		"author": "Dany Gee",
+		"url": "https://w.wallhaven.cc/full/96/wallhaven-96rm3w.jpg",
+		"thumbnail": "https://w.wallhaven.cc/full/96/wallhaven-96rm3w.jpg",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+]
