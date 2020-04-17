@@ -1,117 +1,4 @@
 [
-      {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
-	},
-      {
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "ShotB",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
-	},
-	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
-	},
-	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
-	},
-	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
-	},
-	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
-	},
-	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
-	},
-	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
-	},
-	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
-	},
-	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
-	},
-	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
-	},
-	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
-	},
         {
 		"name": "2B (Nier:Automata)",
 		"author": "sevendark",
@@ -123,126 +10,108 @@
 		"name": "Wavey Aqua",
 		"author": "Hector Simpson",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Aqua.jpg",
-		"size": "4 700 000‬",
 		"dimensions": "1580x2890"
 	},
    	{
 		"name": "Wavey Dark",
 		"author": "Hector Simpson",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Dark.jpg",
-		"size": "2 700 000‬",
 		"dimensions": "1580x2890"
 	},
    	{
 		"name": "Wavey Graphite",
 		"author": "Hector Simpson",
-		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Graphite.jpg",
-		"size": "3 500 000‬",
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Graphite.jpg",B
 		"dimensions": "1580x2890"
 	},
     	{
 		"name": "Black Colors",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/2.png",
-		"size": "1 140 000‬",
 		"dimensions": "1080x1920"
 	},
     	{
 		"name": "The City",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/20190601081549.png",
-		"size": "902 000‬",
 		"dimensions": "873x1794"
 	},
     	{
 		"name": "Journey Deep",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Journey%20Deep.png",
-		"size": "2 700 000‬",
 		"dimensions": "3600x3000"
 	},
       	{
 		"name": "Stimulate",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Stimulate.png",
-		"size": "2 900 000‬",
 		"dimensions": "3200x2560"
 	},
       	{
 		"name": "Cyclone Zone",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Cyclone%20Zone.png",
-		"size": "2 480 000‬",
 		"dimensions": "3200x2560"
 	},
       	{
 		"name": "Star Field",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Star%20Field.png",
-		"size": "2 380 000‬",
 		"dimensions": "3200x2560"
 	},
        	{
 		"name": "Stranger Kings",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Stranger%20Kings.png",
-		"size": "4 000 000‬",
 		"dimensions": "3200x2560"
 	},
        	{
 		"name": "Exodus Mobile",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/exodus_mobile_v02_16_9_(1440x2560).png",
-		"size": "1 600 000‬",
 		"dimensions": "1440x2560"
 	},
        	{
 		"name": "Cactus Jack",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Cactus%20Jack.png",
-		"size": "2 900 000‬",
 		"dimensions": "1680x3000"
 	},
        	{
 		"name": "Volcano Bay",
 		"author": "KXNT",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Volcano%20Bay.png",
-		"size": "1 800 000‬",
 		"dimensions": "1680x3000"
 	},
         {
 		"name": "Telegram Chat BG",
 		"author": "Dany Gee",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/Telegram_Chat_Background.jpg",
-		"size": "235 000‬",
 		"dimensions": "1920x1080"
 	},
         {
 		"name": "Curves",
 		"author": "Elia Colombo",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/curves_4902_rectangle.jpg",
-		"size": "255 000‬",
 		"dimensions": "1440x2560"
 	},
         {
 		"name": "We Can Undo it",
 		"author": "Elia Colombo",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/we_can_undo_it_4737_rectangle.jpg",
-		"size": "664 000‬",
 		"dimensions": "1440x2560"
 	},
         {
 		"name": "Moonlight",
 		"author": "Pierluigi Scotolati",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/moonlight8666_rectangle.jpg",
-		"size": "187 000‬",
 		"dimensions": "2160x3840"
 	},
         {
 		"name": "Minimalist",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/minimalist.jpg",
-		"size": "198 000‬",
 		"dimensions": "1620x2880"
 	}
 ]
