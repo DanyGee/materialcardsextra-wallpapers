@@ -1,17 +1,39 @@
 [
 	{
+		"name": "Beacon of Hope",
+		"author": "KXNT",
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/beacon_of_hope.png",
+		"dimensions": "1680x3000"
+	},
+	{
+		"name": "Beacon of Light",
+		"author": "KXNT",
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/beacon_of_light.png",
+		"dimensions": "1680x3000"
+	},
+	{
+		"name": "Big Surf",
+		"author": "Backdrops",
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/big_surf.png",
+		"dimensions": "1500x3000"
+	},
+	{
+		"name": "Fourteen",
+		"author": "Backdrops",
+		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/fourteen.png",
+		"dimensions": "1440x3168"
+	},
+	{
 		"name": "Pink Beauty",
 		"author": "arg81",
 		"url": "https://raw.githubusercontent.com/DanyGee/materialcardsextra_wallpapers/master/wallhaven_girl.jpg",
-		"dimensions": "1080x2160",
-		"featured": true
+		"dimensions": "1080x2160"
 	},
         {
 		"name": "2B (Nier:Automata)",
 		"author": "sevendark",
 		"url": "https://w.wallhaven.cc/full/j5/wallhaven-j5korw.jpg",
-		"dimensions": "1920x3415",
-		"featured": true
+		"dimensions": "1920x3415"
 	},
    	{
 		"name": "Wavey Aqua",
